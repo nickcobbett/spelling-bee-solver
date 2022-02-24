@@ -1,0 +1,10 @@
+{
+  "name": "spelling-bee-solver",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "nickcobbett",
+  "license": "MIT",
+  "scripts": {
+    "start": "node --experimental-json-modules index.mjs"
+  }
+}
